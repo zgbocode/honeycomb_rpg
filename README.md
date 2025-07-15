@@ -47,7 +47,7 @@ The game integrates with Honeycomb Protocol to provide:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/zgbocode/honeycomb_rpg.git
 cd honeycomb-hero
 ```
 
@@ -188,15 +188,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Team** for the excellent frontend framework
 - **shadcn/ui** for the beautiful component library
 
-## 📞 Support
-
-For questions, issues, or feature requests:
-
-- Open an issue on GitHub
-- Join our Discord community
-- Follow us on Twitter [@HoneycombHero](https://twitter.com/honeycombhero)
-
----
 
 **Built with ❤️ for the Web3 gaming community**
 
