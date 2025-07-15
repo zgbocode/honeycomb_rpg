@@ -15,3 +15,12 @@ coverage
 *.log
 .vscode
 *.swp
+
+# .gitignore
+node_modules
+.next
+dist
+.vite
+.vite-temp
+.env
+.env.local
